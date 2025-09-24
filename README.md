@@ -1,5 +1,5 @@
 ATML - PA1
 
-Ahmad Subhani
-Muhammad Ibrahim
-Ahmad Jawad
+- Ahmad Subhani
+- Muhammad Ibrahim
+- Ahmad Jawad
